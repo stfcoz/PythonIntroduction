@@ -16,4 +16,3 @@ This repository contains material used in an introductory class for Python.  Thi
   - Example solutions to these challenges
 - `company_sales_data.csv`
   - A `.csv` file used in `Intro.ipynb`, `IntroChallenges.ipynb` and `IntroSolutions.ipynb`
-## Running the notebooks

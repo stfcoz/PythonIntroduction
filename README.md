@@ -1,6 +1,9 @@
 # Introduction to Python masterclass
 ## Description
 This repository contains material used in an introductory class for Python.  This includes walkthrough notebooks on the use of Python with example code, as well as challenges and worked example solutions.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stfcoz/PythonIntroduction.git/master)
+
 ## File contents
 - `Intro.ipynb`
   - A walkthrough of the fundamentals of Python, including variables, control structures and UDFs

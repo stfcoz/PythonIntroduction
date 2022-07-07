@@ -1,8 +1,8 @@
+matplotlib==3.5.2
+numpy==1.2.3
 math==3.8.0
-numpy==1.23
 string==3.11
 random==3.11
-matplotlib==3.5.2
 pandas==1.4.3
 mpl_toolkits==3.5.2
 scipy==1.7.3
